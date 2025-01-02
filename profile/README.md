@@ -1,12 +1,7 @@
-## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+<p align="center"><a href="https://getjustd.com" target="_blank"><img src="https://github.com/user-attachments/assets/fddfcf6b-63d5-4850-8915-dd410a15901d" width="80"></a></p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About Circle X 
+
+Circle X adalah sebuah project yang dibangung untuk menunjang produktifitas pekerjaan, tidak hanya untuk kebutuhan pekerjaan office namun juga bisa digunakan pada produktifitas harian
